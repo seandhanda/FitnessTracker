@@ -2,9 +2,9 @@
 
 ## Members
 
-- Sean Dhanda ( c9j3b )
-- Ted Lee     ( l7e3b )
-- Michele Mai ( x8c3b )
+- Sean Dhanda
+- Ted Lee
+- Michele Mai
 
 ## Project Description
 
