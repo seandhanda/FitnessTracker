@@ -1,10 +1,4 @@
-# CPSC 304 Project (Fitness Tracker)
-
-## Members
-
-- Sean Dhanda
-- Ted Lee
-- Michele Mai
+# Database Project - Social Media Fitness Tracker
 
 ## Project Description
 
@@ -19,6 +13,7 @@ and facilitates social interaction, enabling users to share their fitness statis
 
 PHP and Oracle
 
+Designed by Sean Dhanda, Ted Lee, Michelle Mai
 
 
 
